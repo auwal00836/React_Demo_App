@@ -3,6 +3,7 @@
 function Greetings(){
     return(
         <h1>React is {5 + 5} times better with JSX</h1>
+    
     ) 
 }
 
